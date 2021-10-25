@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/drawable/btn_bg.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/drawable/optiondesign.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/drawable/round_back_light_yellow10.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/drawable/round_back_white_stroke10.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/drawable/textcolorblue.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_java_class.xml" value="0.29259259259259257" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_langs.xml" value="0.29259259259259257" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_lesson1.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_lesson12.xml" value="0.1859375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_lesson1a2.xml" value="0.22" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_lesson1d2.xml" value="0.3375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_quiz_lesson1.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/activity_select_course.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/GoProg/app/src/main/res/layout/content_scrolling.xml" value="0.29259259259259257" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

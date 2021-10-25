@@ -1,0 +1,95 @@
+<resources>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="app_name">Go Prog</string>
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="score">Score 0/8</string>
+    <string name="question_number">1/8 Question</string>
+
+    <string name="question_1">In 1995 Java Programming language release by the  _______. </string>
+    <string name="question1_A">Microsystem</string>
+    <string name="question1_B">San Microsystem</string>
+    <string name="question1_C">Java</string>
+    <string name="question1_D">Sun Microsystem</string>
+    <string name="answer_1">Sun Microsystem</string>
+
+
+    <string name="question_2">It is one of the best features of java, code once run everywhere</string>
+    <string name="question_2A">Java Virtual Machine</string>
+    <string name="question_2B">Javac Virtual Machine</string>
+    <string name="question_2C">Java Machine Language</string>
+    <string name="question_2D">Java Machine</string>
+    <string name="answer_2">Java Virtual Machine</string>
+
+
+    <string name="question_3">In java out is short for? </string>
+    <string name="question_3A">Outline</string>
+    <string name="question_3B">Outer</string>
+    <string name="question_3C">Output</string>
+    <string name="question_3D">Ouwu</string>
+    <string name="answer_3">Output</string>
+
+    <string name="question_4">What is the right code in the output below.\nHi\nWorld!
+</string>
+    <string name="question_4A">System.out.print(“Hi”);\nSystem.out.print(“”);\nSystem.out.print(“World”);
+</string>
+    <string name="question_4B">System.out.print(“Hi”)\nSystem.out.println(“”)\nSystem.out.println(“World”)
+</string>
+    <string name="question_4C">System.out.print(“Hi”);\nSystem.out.println(“World”);
+</string>
+    <string name="question_4D">System.out.print(“Hi”);\nSystem.out.println(“”);\nSystem.out.println(“World”);
+</string>
+    <string name="answer_4">d.	System.out.print(“Hi”);\nSystem.out.println(“”);\nSystem.out.println(“World”);
+</string>
+
+    <string name="question_5">The right way to use comment in a single line instruction</string>
+    <string name="question_5A">// I’m a comment.</string>
+    <string name="question_5B">\\ I’m a comment.</string>
+    <string name="question_5C">** I’m a comment.</string>
+    <string name="question_5D">-- I’m a comment</string>
+    <string name="answer_5">// I’m a comment.</string>
+
+    <string name="question_6">It’s use to mark the end of statements</string>
+    <string name="question_6A">.</string>
+    <string name="question_6B">:</string>
+    <string name="question_6C">}</string>
+    <string name="question_6D">;</string>
+    <string name="answer_6">;</string>
+
+    <string name="question_7">It is a program that translates human-friendly programming languages into other programming languages that computers can execute.</string>
+    <string name="question_7A">Runner</string>
+    <string name="question_7B">Compiler</string>
+    <string name="question_7C">Executer</string>
+    <string name="question_7D">Decoder</string>
+    <string name="answer_7">Compiler</string>
+
+    <string name="question_8">What is part of a database that holds only one type of information?</string>
+    <string name="question_8A"> Report</string>
+    <string name="question_8B">Field</string>
+    <string name="question_8C">Record</string>
+    <string name="question_8D">File</string>
+    <string name="answer_8">Field</string>
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="lesson1_title">Lesson 1: Hello World</string>
+    <string name="lesson1_part1"><b>Introduction to Java</b>\nWelcome to the world of Java programming!\n\nProgramming languages enable humans to write instructions that a computer can perform. With precise instructions, computers coordinate applications and systems that run the modern world.\n\nSun Microsystems released the Java programming language in 1995. Java is known for being simple, portable, secure, and robust. Though it was released over twenty years ago, Java remains one of the most popular programming languages today.\n\nOne reason people love Java is the Java Virtual Machine, which ensures the same Java code can be run on different operating systems and platforms. Sun Microsystems’ slogan for Java was “write once, run everywhere”\n\n</string>
+    <string name="lesson1_part2"><b>Print Statements</b>\nLet’s take a closer look at this instruction from our previous program:\n\n
+        <h5 style= "background:black"><font color="orange">System.out.println</font>(<font color="yellow">"Hello World"</font>);</h5>\nPrint statements output information to the screen (also referred to as the output terminal). Let’s break this line of code down a little more. Don’t worry if some of the terms here are new to you. We’ll dive into what all of these are in much more detail later on!\n
+        <ul>\n<li>System is a built-in Java class that contains useful tools for our programs.</li>\n<li>out is short for “output”.</li>
+        \n<li>println is short for “print line”.</li>\n</ul>\nWe can use System.out.println() whenever we want the program to create a new line on the screen after outputting a value:\n\n<font color="yellow" bgcolor="black">System.out.println("Hello World");\n
+System.out.println(“Let’s Code Java Program");</font>\n
+After "Hello World" is printed, the output terminal creates a new line for the next statement to be outputted. This program will print each statement on a new line like so:\n\n
+        <font color="white" bgcolor="black">Hello World\n
+Let’s Code Java Program</font>\n
+We also can output information using System.out.print(). Notice that we’re using print(), not println(). Unlike System.out.println(), this type of print statement outputs everything on the same line. For example:\n\n<font color="yellow" bgcolor="black">System.out.print("Hello ");\n
+System.out.print("World");</font>\n
+The above code will have the following output:\n\n
+<font color="white" bgcolor="black">Hello World</font>
+In this example, if you were to use print() or println() again, the new text will print immediately after World on the same line. It’s important to remember where you left your program’s “cursor”. If you use println() the cursor is moved to the next line. If you use print() the cursor stays on the same line.
+</string>
+
+
+
+</resources>
